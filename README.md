@@ -23,4 +23,4 @@ To view the live version:
 ---
 
 Julio César López Mendoza  
-Web Developer | Data Scientist | Tech Strategist
+Data Scientist | Data Analyst | Full Stack Developer
